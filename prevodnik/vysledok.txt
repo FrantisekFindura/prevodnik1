@@ -1,0 +1,3 @@
+ABC v sestnastkovej 
+= 2748 v desiatkovej sustave
+= 101010111100 v dvojkovej
